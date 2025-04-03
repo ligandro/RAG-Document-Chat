@@ -3,7 +3,7 @@
 A Streamlit-based AI-powered document assistant that allows users to upload a PDF file and ask questions based on its content. It leverages LangChain, Ollama's Llama3.2 model, and ChromaDB for semantic search and retrieval-augmented generation (RAG).
 
 <p align="center">
-  <img width="20%" src="demo.png"> &nbsp &nbsp
+  <img width="70%" src="demo.png"> &nbsp &nbsp
 </p>
 
 
